@@ -1,4 +1,4 @@
-# 🌍 Life Saver System – Real-time Change Detection using Satellite Imagery 🚨
+# 🌍 ISRO 2025 hackathon project no 14 -> Life Saver System – Real-time Change Detection using Satellite Imagery 🚨
 
 This project detects real-time changes in satellite images to help save lives during disasters and emergencies.
 
